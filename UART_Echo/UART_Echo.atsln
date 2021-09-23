@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "UART_Echo", "UART_Echo\UART_Echo.cproj", "{AAA236B8-3514-42AC-B7CB-5A94EF30B0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA236B8-3514-42AC-B7CB-5A94EF30B0E3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AAA236B8-3514-42AC-B7CB-5A94EF30B0E3}.Debug|AVR.Build.0 = Debug|AVR
+		{AAA236B8-3514-42AC-B7CB-5A94EF30B0E3}.Release|AVR.ActiveCfg = Release|AVR
+		{AAA236B8-3514-42AC-B7CB-5A94EF30B0E3}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
